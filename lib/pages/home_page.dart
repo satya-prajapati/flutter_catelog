@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text("Helo "),
+          child: Text("Hello "),
         ),
       ),
       drawer: Drawer(),
